@@ -1,0 +1,5 @@
+--select CheckNumder , paymentDate , amount from payments;
+--select orderdate desc , requiredDate , status from orders;
+--select firstName , lastMame , email , Oredr by empolyeeNumber where jobTitle=sales Rep from employees;
+--SELECT * FROM sales_db.offices;
+--select productName , quanitystock ,orderby buypriceasc, where productname = 5 from products;
